@@ -1,2 +1,2 @@
 # SantanderCoders
-Atividades e exemplos do curso de Kotlin da Digital House
+Essas são atividades e exemplos do curso de Kotlin da Digital House
